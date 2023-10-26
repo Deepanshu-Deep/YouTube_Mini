@@ -24,7 +24,7 @@ Inside the directory there is index.js, there is url variable put the api in it 
 ```url="Your API key"```
 
 ## Homepage
-<img src = "https://github.com/swapnil0076/swift-book-7091/assets/58816804/87e07d23-442e-4f6f-acfc-8e2803b2ed7c"/>
+<img src = "https://github.com/Deepanshu-Deep/YouTube_Mini/blob/main/assests/you%20tube%20home%20page.png"/>
 
 ## Technologies Used
 * Html
